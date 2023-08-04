@@ -21,6 +21,7 @@ Table of Contents
 
 
 Installation
+
 [Download the script]
 [Go to the insert tab of your ArcGIS PRO project]
 
@@ -54,6 +55,7 @@ Before running the tool you should create a folder in your C drive directory to 
 
  
 Usage
+
 Assume that you are going to run a deep learning model in python using your spatial data. You have a feature layer with 2o million rows. If you want to export that dataset just by copying it to Excel or using a table to Excel tool in ArcGIS, your data just save for the first 1,048,576 rows (the maximum number of rows supported in a worksheet is 1,048,576), so you need to export that attribute table to other format like csv that supports big datasets. For example, in my example, I have a dataset with 20658793 rows of data. In ArcGIS, there is no such specific tool for doing this task. So, this tool can help users to call the feature layer and save the attribute table in CSV file in your directory (C drive). 
 
 ![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/2f858df1-ddf4-48fb-80e0-e9af76a5cbc6)
@@ -70,13 +72,25 @@ If your dataset is so big you can use temp.csv file otherwise you can use YourCS
 
  
 Contributing
+
 [Please run the script, use it and help me to improve the performance of that script using your valuable suggestions.]
+
 License
+
+
 About the Author
+
 [Developed by Aliasghar Bazrafkan.]
+
+
 Acknowledgments
+
 [I would like to express my sincere appreciation to my supervisor, Dr. Paulo Flores, from North Dakota State University (NDSU), for providing invaluable support and guidance throughout the development of this script. His expertise and encouragement have been instrumental in making this project possible].
+
 Contact
+
 [Aliasghar.bazrafkan@ndus.edu]
+
 Additional Notes
+
 [https://sites.google.com/ndsu.edu/floreslab/home?authuser=0]
