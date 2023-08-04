@@ -1,7 +1,9 @@
 # Export-Big-database-to-CSV
 This tool export big database into a csv file
+
 Project Title
 [Export Big database into CSV file format]
+
 Description
 [if you are using machine learning and deep learning models and need to export your feature layer with a big database (million rows od data) into csv file for feeding your model, using this script is highly recommended]
 
