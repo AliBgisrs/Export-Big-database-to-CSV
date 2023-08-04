@@ -7,12 +7,19 @@ Description
 
 ![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/c304df99-79ae-45fc-afb6-80245e654b23)
 
+
  
 Table of Contents
+
 •	Installation
+
 •	Usage
+
 •	Contributing
+
 •	License
+
+
 Installation
 [Download the script]
 [Go to the insert tab of your ArcGIS PRO project]
