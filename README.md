@@ -65,19 +65,19 @@ Assume that you are going to run a deep learning model in python using your spat
 ![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/2f858df1-ddf4-48fb-80e0-e9af76a5cbc6)
 
  
-After running the tool two csv file will be created in you csv folder at your C drive. 
+After running the tool a CSV file will be created in your CSV folder on your C drive. 
 
-![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/5a995f77-b33a-4635-8f91-3fdcc42656a7)
+![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/2618ffae-5852-4a2c-824b-cd1ce494b866)
 
  
-Then you can open that file in your python notebook.
+Then you can open that file in your Python notebook.
 
 ![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/aaf8c9fd-4594-4fd6-8f0d-3cabacb6f534)
 
  
 Contributing
 
-[Please run the script, use it and help me to improve the performance of that script using your valuable suggestions.]
+[Please run the script, use it, and help me to improve the performance of that script using your valuable suggestions.]
 
 License
 
