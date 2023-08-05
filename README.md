@@ -67,10 +67,10 @@ Assume that you are going to run a deep learning model in python using your spat
  
 After running the tool two csv file will be created in you csv folder at your C drive. 
 
-![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/21223b47-421c-41bc-9459-ff6359eec03a)
+![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/5a995f77-b33a-4635-8f91-3fdcc42656a7)
 
  
-If your dataset is so big you can use temp.csv file otherwise you can use YourCSV.csv file. Then you can open those files in you python notebook.
+Then you can open that file in your python notebook.
 
 ![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/aaf8c9fd-4594-4fd6-8f0d-3cabacb6f534)
 
