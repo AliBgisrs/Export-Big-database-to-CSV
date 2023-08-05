@@ -7,7 +7,7 @@ Project Title
 [Export Big database into CSV file format]
 
 Description
-[if you are using machine learning and deep learning models and need to export your feature layer with a big database (million rows od data) into csv file for feeding your model, using this script is highly recommended]
+[if you are using machine learning and deep learning models and need to export your feature layer with a big database (million rows of data) into csv file for feeding your model, using this script is highly recommended]
 
 ![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/c304df99-79ae-45fc-afb6-80245e654b23)
 
