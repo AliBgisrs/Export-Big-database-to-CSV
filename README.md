@@ -58,12 +58,12 @@ Usage
 
 Assume that you are going to run a deep learning model in python using your spatial data. You have a feature layer with 2o million rows. If you want to export that dataset just by copying it to Excel or using a table to Excel tool in ArcGIS, your data just save for the first 1,048,576 rows (the maximum number of rows supported in a worksheet is 1,048,576), so you need to export that attribute table to other format like csv that supports big datasets. For example, in my example, I have a dataset with 20658793 rows of data. In ArcGIS, there is no such specific tool for doing this task. So, this tool can help users to call the feature layer and save the attribute table into a CSV file in your directory. 
 
-![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/2f858df1-ddf4-48fb-80e0-e9af76a5cbc6)
+![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/76c9d323-816a-4ac3-b3bf-cca0abb1ac90)
 
  
 After running the tool a CSV file format will be created in your output directory. 
 
-![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/76c9d323-816a-4ac3-b3bf-cca0abb1ac90)
+![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/d1e83718-7160-4492-a68c-1ea8a2c3e8e2)
 
  
 Then you can open that file in your Python notebook.
