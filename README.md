@@ -44,7 +44,7 @@ Installation
 
 [Double click and open the script]
 
-![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/4885c6bc-9591-43f9-880a-a2a18a8edf79)
+![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/c8920c20-a849-4e38-b673-4d621b7dbd7d)
 
  
 [Call the input feature layer (your feature layer that you want to export its attribute table) . Note: You should have a feature layer not shape file. 
