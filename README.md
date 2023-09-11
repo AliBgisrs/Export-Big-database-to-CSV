@@ -63,7 +63,7 @@ Assume that you are going to run a deep learning model in python using your spat
  
 After running the tool a CSV file format will be created in your output directory. 
 
-![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/2618ffae-5852-4a2c-824b-cd1ce494b866)
+![image](https://github.com/AliBgisrs/Export-Big-database-to-CSV/assets/109620013/76c9d323-816a-4ac3-b3bf-cca0abb1ac90)
 
  
 Then you can open that file in your Python notebook.
